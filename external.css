@@ -1,1 +1,7 @@
-s
+.block {
+	font-size: 22px;
+	font-style: arial;
+	position: absolute;
+	left: 30%;
+	top: 40%;
+}
