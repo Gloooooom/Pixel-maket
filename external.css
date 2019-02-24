@@ -1,7 +1,56 @@
-.block {
-	font-size: 22px;
+body {
+	width: 1080px;
+}
+.header {
+	position: relative;
+	left: 40%;
+	width: 960px;
+}
+.content {
+	width: 960px;
+	position: relative;
+	left: 40%;
+}
+.hdblock {
+	display: inline-block;
+	background-color: #646464; 
+	margin: 1%;
+}
+.ctblock {
+	display: inline-block;
+	margin: 1%;
+}
+.block1 {
+	width: 12%;
+	height: 90px;
+	float: left;
+}
+.block2 {
+	width: 30%;
+	height: 90px;
+}
+.block3 {
+	width: 50%;
+	height: 90px;
+	float: right;
+}
+hr {
+	width: 98%;
+}
+.block4 {
+	width: 15%;
+	height: 25%;
+	float: left;
+	font-size: 14px;
 	font-style: arial;
-	position: absolute;
-	left: 30%;
-	top: 40%;
+	line-height: 22px;
+	box-sizing: border-box;
+	padding: 1%;
+	color: white;
+	background-color: #646464;
+
+}
+.block5 {
+	width: 81%;
+	background-color: #E5E8E8;
 }
