@@ -73,16 +73,17 @@ hr {
 .block7 {
 	width: 15%;
 	height: 100px;
-	display: inline-block;
+	display: flex;
+	flex-direction: row;
 	background-color: #646464;
 	margin: 1%;
-	display: block;
 	position: relative;
 }
 .block8 {
 	width: 30%;
 	height: 100px;
-	display: inline-block;
+	display: flex;
+	flex-direction: row;
 	margin: 1%;
 	background-color: #E5E8E8;
 }
