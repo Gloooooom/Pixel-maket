@@ -7,6 +7,7 @@ body {
 	width: 960px;
 }
 .content {
+	display: block;
 	width: 960px;
 	position: relative;
 	left: 40%;
@@ -88,6 +89,12 @@ hr {
 	float: left;
 	position: absolute;
 	margin-left: 18%;
+	color: #646464;
+	font-size: 14px;
+	font-style: arial;
+	padding: 1%;
+	box-sizing: border-box;
+	line-height: 1.5em;
 }
 .block9 {
 	width: 42%;
@@ -97,4 +104,25 @@ hr {
 	float: right;
 	position: absolute;
 	right: 0;
+	color: #646464;
+	font-size: 14px;
+	font-style: arial;
+	padding: 1%;
+	box-sizing: border-box;
+	line-height: 1.5em;
 }
+.footer {
+	display: block;
+	width: 960px;
+	position: relative;
+	left: 40%;
+	}
+.block10 {
+	width: 30%;
+	height: 20%;
+	background-color: #646464;
+	margin: 1%;
+	float: left;
+	position: relative;
+	top: 10;
+	}
